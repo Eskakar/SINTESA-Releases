@@ -1,0 +1,15 @@
+# Installer diunggah melalui GitHub Releases, bukan sebagai file Git.
+/release-assets/
+/PANDUAN_PUBLIKASI_LOKAL.md
+*.exe
+
+# Jangan memasukkan konfigurasi akun atau data operasional.
+credentials.json
+token.json
+google-token.dpapi
+.google-token-*.tmp
+.env
+*.db
+*.db-wal
+*.db-shm
+*.pdf
