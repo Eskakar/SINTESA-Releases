@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/sintesa-logo.png" width="150" alt="Lambang SINTESA"></p>
+<p align="center"><img src="assets/sintesa-logo.png" width="220" alt="Lambang SINTESA"></p>
 
 # SINTESA — Unduhan aplikasi
 
