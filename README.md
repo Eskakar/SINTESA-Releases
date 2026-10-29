@@ -12,9 +12,7 @@ Repository ini menyediakan installer Windows, panduan penggunaan awal, dan catat
 [**Unduh SINTESA untuk Windows**](https://github.com/Eskakar/SINTESA-Releases/releases/latest)
 
 Pada halaman rilis, buka **Assets**, lalu unduh installer sesuai nomor rilis.
-Paket terbaru yang disiapkan lokal adalah `SINTESA-Setup-1.2.1-x64.exe`;
-paket ini belum dipublikasikan. Rilis GitHub yang diperiksa pada 29 Oktober 2026
-masih **1.2.0**.
+Paket terbaru yang disiapkan adalah `SINTESA-Setup-1.2.1-x64.exe`;
 File **Source code (zip)** dan **Source code (tar.gz)** adalah arsip repository ini,
 bukan installer aplikasi.
 
