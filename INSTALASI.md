@@ -64,18 +64,18 @@ Windows yang sama tetap dapat memakai aplikasi yang sudah terhubung.
 
 ## Memeriksa file unduhan
 
-Unduh `SHA256SUMS-1.2.0.txt` dari rilis yang sama dengan installer. Di PowerShell,
+Unduh `SHA256SUMS-1.2.1.txt` dari rilis yang sama dengan installer. Di PowerShell,
 jalankan pada folder unduhan:
 
 ```powershell
-Get-FileHash -Algorithm SHA256 -LiteralPath '.\SINTESA-Setup-1.2.0-x64.exe'
+Get-FileHash -Algorithm SHA256 -LiteralPath '.\SINTESA-Setup-1.2.1-x64.exe'
 ```
 
 Bandingkan nilai Hash dengan checksum pada rilis. Untuk versi lain, sesuaikan
 nama installer dan file checksum. Jika nilainya berbeda, unduh kembali file dari
 halaman rilis yang benar.
 
-## Catatan versi 1.2.0
+## Catatan versi 1.2.1
 
 Uji executable lulus untuk UI, OCR, service lokal, dan enkripsi token Windows.
 Pemasangan/upgrade versi ini belum diuji otomatis pada instalasi baru karena

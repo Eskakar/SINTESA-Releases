@@ -44,3 +44,9 @@ izin rekap dan koneksi. Jika perlu bantuan, sampaikan teks pesan kepada pengelol
 SINTESA tanpa mengirim credentials, token, atau data pribadi ke laporan publik.
 
 [Kembali ke panduan](README.md)
+
+## Pembaruan paket 1.2.1
+
+Pemuatan menampilkan tahap dan baris yang dibaca. Sel kosong di ujung baris
+diterima. Jika masih ada data setelah judul kolom terakhir, lengkapi judul kolom
+atau pindahkan catatan di luar tabel sebelum mencoba lagi.

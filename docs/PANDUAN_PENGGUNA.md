@@ -87,3 +87,15 @@ besar diberi keterangan gagal dan antrean berlanjut ke berkas berikutnya. Ukuran
 diperiksa sebelum dan selama unduhan; salinan unduhan yang gagal dibersihkan.
 Metadata utama tetap dapat dicatat tanpa mengunduh PDF. Preview Drive tetap
 dibatasi 200 MB; batas ini tidak mengubah pemrosesan PDF lokal.
+
+## Pembaruan paket 1.2.1
+
+Progres unduhan menampilkan ukuran yang diterima; pemuatan rekap online
+menampilkan tahap dan baris yang dibaca. Sel kosong di ujung baris Excel/Sheets
+diterima, tetapi kolom berisi data tetap memerlukan judul.
+
+Gunakan tombol minus/persentase/plus pada header untuk zoom admin 75–150%.
+Ctrl +/−/0 atau Ctrl + roda mouse juga tersedia. Zoom kembali 100% saat membuka
+aplikasi dan tidak mengubah DPI OCR. Pemberitahuan nama PDF dapat ditutup selama
+sesi; laporan lama tidak muncul kembali setelah restart. Buka Kelola data →
+Laporan untuk membaca riwayat pemeriksaan.
