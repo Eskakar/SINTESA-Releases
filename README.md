@@ -13,7 +13,6 @@ Repository ini menyediakan installer Windows, panduan penggunaan awal, dan catat
 
 Pada halaman rilis, buka **Assets**, lalu unduh installer sesuai nomor rilis.
 Paket terbaru yang disiapkan lokal adalah `SINTESA-Setup-1.2.5-x64.exe`.
-Paket 1.2.5 belum dipublikasikan; rilis online terakhir yang diperiksa adalah 1.2.1.
 File **Source code (zip)** dan **Source code (tar.gz)** adalah arsip repository ini,
 bukan installer aplikasi.
 
