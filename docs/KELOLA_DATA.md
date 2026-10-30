@@ -1,5 +1,20 @@
 # Menggunakan Kelola data
 
+## Pembaruan 1.2.5
+
+Folder utama Google Drive mencakup PDF dalam subfolder yang terlihat bagi akun.
+Daftar menampilkan jalur subfolder dan progres; pemuatan dapat dibatalkan.
+Shortcut tidak diikuti. Sinkronisasi biasa tidak mengulang OCR hasil selesai;
+tahun dan DI tetap tidak ditebak dari folder. Batas satu sumber: 50.000 PDF,
+10.000 folder termasuk root, dan 100 tingkat subfolder; jika terlampaui,
+pemuatan gagal dengan keterangan, bukan menampilkan hasil terpotong.
+
+Bantuan **?** di pojok panel dapat ditutup dengan klik di luar atau Escape.
+Zoom admin 50–150% tersedia di header. Pada laporan nama ditolak, pilih satu
+radio entri lalu **Simpan satu nama terpilih** untuk CSV nama/sumber/alasan.
+Pilihan dibersihkan ketika daftar dirender ulang, termasuk saat pindah halaman.
+Ini ekspor laporan, bukan unduhan PDF. Ekspor seluruh laporan tetap tersedia.
+
 Pilih kegiatan sesuai kebutuhan. Satu kelompok ditampilkan agar tidak perlu
 membaca semua form sekaligus. Isi form dan pilihan tetap ada ketika berpindah.
 

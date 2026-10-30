@@ -1,7 +1,7 @@
 # Panduan SINTESA untuk admin dan pihak BPN
 
-Panduan ini menjelaskan pemakaian **SINTESA 1.2.1**, disesuaikan dari dokumentasi
-project aplikasi. Disiapkan 29 Oktober 2026.
+Panduan ini menjelaskan pemakaian **SINTESA 1.2.5**, disesuaikan dari dokumentasi
+project aplikasi. Disiapkan 30 Oktober 2026.
 
 ## Mulai di sini
 

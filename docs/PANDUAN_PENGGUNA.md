@@ -94,8 +94,16 @@ Progres unduhan menampilkan ukuran yang diterima; pemuatan rekap online
 menampilkan tahap dan baris yang dibaca. Sel kosong di ujung baris Excel/Sheets
 diterima, tetapi kolom berisi data tetap memerlukan judul.
 
-Gunakan tombol minus/persentase/plus pada header untuk zoom admin 75–150%.
+Gunakan tombol minus/persentase/plus pada header untuk zoom admin 50–150%.
 Ctrl +/−/0 atau Ctrl + roda mouse juga tersedia. Zoom kembali 100% saat membuka
 aplikasi dan tidak mengubah DPI OCR. Pemberitahuan nama PDF dapat ditutup selama
 sesi; laporan lama tidak muncul kembali setelah restart. Buka Kelola data →
 Laporan untuk membaca riwayat pemeriksaan.
+
+## Pembaruan 1.2.5
+
+Folder utama Drive kini memuat PDF dalam subfolder yang terlihat oleh akun,
+dengan progres, pembatalan dan jalur subfolder. Aturan nama PDF tetap berlaku.
+Bantuan ? berada di pojok panel. Laporan nama ditolak dapat mengekspor satu
+entri terpilih ke CSV; bukan mengunduh PDF. Kredit Dibuat oleh Nabil & Verrel
+terlihat pada footer admin dan client.
