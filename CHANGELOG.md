@@ -1,5 +1,9 @@
 # Catatan rilis SINTESA
 
+## 1.2.6 — 13 November 2026
+
+[Statistik Service web dan perlindungan hasil OCR](catatan-rilis/1.2.6.md).
+
 ## 1.2.5 — 30 Oktober 2026
 
 [Folder Drive bertingkat, zoom 50–150%, bantuan dan kredit pembuat](catatan-rilis/1.2.5.md).
